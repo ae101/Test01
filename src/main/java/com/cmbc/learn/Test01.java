@@ -8,5 +8,6 @@ public class Test01 {
         System.out.println("Hello World");
         System.out.println("Here we are");
         System.out.println("hello from workspace1");
+        System.out.println("hello from workspace2");
     }
 }
