@@ -1,0 +1,10 @@
+/build/*
+/bin/*
+*.class
+/bin/
+/target/
+/.idea/
+/.idea/*
+/lib/
+*.jar
+*.iml
